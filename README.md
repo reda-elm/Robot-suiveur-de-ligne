@@ -3,7 +3,12 @@ Conception d'un robot autonome capable de suivre une ligne noire avec fluidité.
 
 <p>
   <img width="500" alt="Montage robot" src="https://github.com/user-attachments/assets/1885bba5-46ec-4348-bb84-db19af92c2f5" />
+  <br>
+  <em>Vue d'ensemble des connexions</em>
 </p>
+
 <p>
-  <img width="350" alt="Câblage robot" src="https://github.com/user-attachments/assets/dab24d91-e153-49d7-8caa-34d7c63e333a" />
+  <img width="750" alt="Schéma électrique Altium" src="https://github.com/user-attachments/assets/22eb84b1-2a06-4cb1-9d92-eac6120e6f43" />
+  <br>
+  <em>Schéma électrique complet réalisé sur Altium Designer</em>
 </p>
